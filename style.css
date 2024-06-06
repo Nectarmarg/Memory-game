@@ -1,0 +1,30 @@
+#startBtn {
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid;
+  background-color: hsl(224, 100%, 48%);
+  color: aqua;
+  font-size: 2em;
+  margin-left: 48.5%;
+
+
+
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+#startBtn:hover {
+  cursor: pointer;
+}
+
+.td {
+  width: 40px;
+}
+
+#counter {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 3em;
+  margin-left: 50%;
+}
